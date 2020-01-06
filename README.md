@@ -1,2 +1,3 @@
-# minidex.py
-Oscar D'amico's miniature command line pokedex for Linux
+# Minidex.py
+
+> Pokedex at your Linux fingertips, providing a quick way to find data on various pokemon using python
