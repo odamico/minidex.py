@@ -117,6 +117,6 @@ For example, to print all entries that start with 'a':
 ./minidex.py a+
 ```
 ## Note
-The program re-scrapes the data it needs once per week.
+The program re-scrapes the data it needs once per week. This will require internet connectivity.
 
 More information on this project can be found at https://odamico.github.io/posts/minidex
